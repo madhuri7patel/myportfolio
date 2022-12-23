@@ -1,0 +1,65 @@
+export const projects = [
+  {
+    img: "https://user-images.githubusercontent.com/75351991/209290389-1f92386b-727c-4d56-bfb1-b9173daf4d69.jpeg",
+
+    title: "FlipKart App clone",
+    des: "Flipkart app is a ecommerce app It is currently being pitched as India’s homegrown alternative to Amazon. We build this clone using ReactJS, MUI, Redux,Nodejs,expressJS,mongoDB,mongoose.In this clone there are many functionalities like sign up and login,add to cart, sort,filter,search,amongst other functionalities.",
+    demo: "",
+    live: "https://fullstackflipkart.vercel.app/",
+    gitHub: "https://github.com/madhuri7patel/flipkart",
+    technologies: [
+      "React",
+      "MUI",
+      "Redux",
+      "expressJS",
+      "NodeJS",
+      "mongoDB",
+      "Mongoose",
+    ],
+  },
+  {
+    img: "https://user-images.githubusercontent.com/75351991/209293994-f912e3d0-08b7-471c-b3c7-df047a2a6fa7.jpeg",
+
+    title: "Ubroic_Clone",
+    des: "Stra is a website of beauty products, we created this clone using React,ChakraUI,Redux,expressJS for the frontend, and for the backend we use expressJS, MongoDB,Nodejs. Atlas cluster. In this clone users can signup and singin, view product pages, buy products, make payments, and then checkout. We have implemented Authentications also for the user.",
+    demo: "",
+    live: "https://uboric-deploy.vercel.app/",
+    gitHub: "https://github.com/madhuri7patel/uboric_clone",
+    technologies: [
+      "React",
+      "ChakraUI",
+      "Redux",
+      "expressJS",
+      "NodeJS",
+      "mongoDB",
+      "Mongoose",
+    ],
+  },
+  {
+    img: "https://user-images.githubusercontent.com/75351991/189521335-b767ff51-5256-40dc-b51d-cd184d49b45b.png?raw=true",
+    title: "The IndianExpress",
+    des: "A the indianexpresss made using React, ChakraUI, Redux, JSON. On the Website, user can view News, sports news, make payments sign-in sign-up pages are also there. The best buy is the website of electrical appliances.",
+    demo: "",
+    live: "https://indianexpressclone.netlify.app/",
+    gitHub: "https://github.com/J-Prajwal/indianExpress",
+    technologies: ["React", "Redux", "javaScript", "ChakaUI"],
+  },
+
+  {
+    img: "https://user-images.githubusercontent.com/91772445/150680963-5dd8481a-1eb9-472e-a6e6-5175891d7587.jpg?raw=true",
+    title: "Koo App clone",
+    des: "Koo app is a microblogging social media app It is currently being pitched as India’s homegrown alternative to Twitter. We build this clone using ReactJS, MUI, Tailwind, Nodejs, expressJS, mongoDB, mongoose. In this clone there are many functionalities like sign up by otp and real time post update, like, comment, share,Trending, news amongst other functionalities.",
+    demo: "",
+    live: "https://koo-clone-app-nine.vercel.app/",
+    gitHub: "https://github.com/madhuri7patel/KooAppClone-main",
+    technologies: [
+      "React",
+      "MUI",
+      "Tailwind",
+      "expressJS",
+      "NodeJS",
+      "mongoDB",
+      "Mongoose",
+    ],
+  },
+];
